@@ -1,5 +1,5 @@
 
-Putting it on your local machine will make it  easier to work with. 
+Putting it on your local machine will make it easier to work with. 
 ## Cloning:
    the process of copying the repository from GitHub to your local machine (sometimes referred to as "checking out"
     - Pulling: down a full copy of all the repository data that GitHub has at that point in time to include all versions of every file and folder for the project
@@ -40,4 +40,4 @@ Pushing Commits to a remote repository: use git push to push commits made on you
 			§ Verifies the new remote url
 	8. Push the changes in your local repo in your local repo to Github
 		- Git push -u origin master 
-Pushes the changes in your local repo up to the remote repo you specified as the origin
+		- Pushes the changes in your local repo up to the remote repo you specified as the origin
