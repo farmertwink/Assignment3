@@ -1,0 +1,45 @@
+
+     
+body {
+    margin: 0;
+    background-color: darkmagenta;
+}
+header {
+    text-align: center;
+    height: 100px;
+    width: 100%;
+    background-color: lightcoral;
+  } 
+nav {
+   line-height: 30px;
+   background: lightgrey;
+   padding: 5px;
+   color: red;
+}
+
+nav ul {
+   list-style: none;
+   margin: 0 auto;
+   text-align: center;
+}
+
+nav ul li {
+   display: inline-block;
+   padding: 10px 15px;
+}
+
+section {
+   padding: 150px;
+   background-color: lightblue;
+   color: red;
+}
+
+footer {
+   background-color: darkblue;
+   color: red;
+   text-align: center;
+   padding: 100px;
+}
+
+
+
